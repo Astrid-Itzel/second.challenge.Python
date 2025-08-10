@@ -26,3 +26,16 @@ El objetivo es identificar patrones y factores que contribuyen a la cancelación
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
+2. Abre el notebook `TelecomX_LATAM.ipynb` en Google Colab o Jupyter.  
+3. Ejecuta las celdas para cargar datos, limpiar, analizar y visualizar resultados.  
+4. Explora las conclusiones y recomendaciones para entender el comportamiento del churn.
+
+## Datos
+
+Los datos se obtienen directamente desde la API pública de Telecom X en formato JSON y se procesan en el notebook.
+
+## Resultados
+
+- El análisis muestra que aproximadamente el 26.58% de los clientes han cancelado el servicio.  
+- Se detectaron patrones de evasión vinculados a tipo de contrato, método de pago y tiempo de permanencia.  
+- Las recomendaciones apuntan a mejorar la retención mediante contratos a largo plazo y promoción de métodos de pago automáticos.
